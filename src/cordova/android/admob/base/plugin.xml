@@ -35,7 +35,7 @@
                       android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
         </config-file>
 
-        <framework src="com.google.android.gms:play-services-ads:15.0.1"/>
+        <framework src="com.google.android.gms:play-services-ads:+"/>
         <dependency id="cocoon-plugin-ads-android-common"/>
     </platform>
 
